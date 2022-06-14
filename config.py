@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 import preprocessing
 
 mysql = {
@@ -17,5 +18,3 @@ use_anonymous = True
 aws_access_key_id = AKIAYVP4CIPPGXUXLVVJ
 aws_secret_access_key = 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
 output = json
-
-
