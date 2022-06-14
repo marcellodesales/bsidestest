@@ -14,9 +14,8 @@ preprocessing_queue = [
 ]
 use_anonymous = True
 
-aws_access_key_id = AKIAYVP4CIPPMCL6GVSN
-aws_secret_access_key = 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
+aws_access_key_id = AKIAYVP4CIPPGXUXLVVJ
+aws_secret_access_key = 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
 output = json
-region = us-east-2
 
 
